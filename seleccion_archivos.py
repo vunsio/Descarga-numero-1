@@ -62,6 +62,14 @@ while True:
 window.close()
 
 print('hola gilberto')
+print('hola gilberto')
+print('hola gilberto')
+print('hola gilberto')
+print('hola gilberto')
+print('hola gilberto')
+print('hola gilberto')
+print('hola gilberto')
+print('hola gilberto')
 
 '''
 sg.Popup('Title',
